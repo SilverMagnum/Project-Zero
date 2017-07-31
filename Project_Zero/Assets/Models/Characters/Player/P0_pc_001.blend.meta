@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 61459da07a5233948ba617b61eb0bf38
+timeCreated: 1501461848
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ankle_Left
+    100002: Ankle_Right
+    100004: Calf_Left
+    100006: Calf_Right
+    100008: Chest
+    100010: Elbow_Left
+    100012: Elbow_Right
+    100014: Foot_Left
+    100016: Foot_Right
+    100018: ForeArm_Left
+    100020: ForeArm_Right
+    100022: Hand_Left
+    100024: Hand_Right
+    100026: Head
+    100028: Hip
+    100030: HipJoint_Left
+    100032: HipJoint_Right
+    100034: Knee_Left
+    100036: Knee_Right
+    100038: //RootNode
+    100040: Plane
+    100042: Pupil_Left
+    100044: Pupil_Right
+    100046: Sclera_Left
+    100048: Sclera_Right
+    100050: Shoulder_Left
+    100052: Shoulder_Right
+    100054: Thigh_Left
+    100056: Thigh_Right
+    100058: UpperArm_Left
+    100060: UpperArm_Right
+    100062: Waist
+    100064: Wrist_Left
+    100066: Wrist_Right
+    400000: Ankle_Left
+    400002: Ankle_Right
+    400004: Calf_Left
+    400006: Calf_Right
+    400008: Chest
+    400010: Elbow_Left
+    400012: Elbow_Right
+    400014: Foot_Left
+    400016: Foot_Right
+    400018: ForeArm_Left
+    400020: ForeArm_Right
+    400022: Hand_Left
+    400024: Hand_Right
+    400026: Head
+    400028: Hip
+    400030: HipJoint_Left
+    400032: HipJoint_Right
+    400034: Knee_Left
+    400036: Knee_Right
+    400038: //RootNode
+    400040: Plane
+    400042: Pupil_Left
+    400044: Pupil_Right
+    400046: Sclera_Left
+    400048: Sclera_Right
+    400050: Shoulder_Left
+    400052: Shoulder_Right
+    400054: Thigh_Left
+    400056: Thigh_Right
+    400058: UpperArm_Left
+    400060: UpperArm_Right
+    400062: Waist
+    400064: Wrist_Left
+    400066: Wrist_Right
+    2300000: Ankle_Left
+    2300002: Ankle_Right
+    2300004: Calf_Left
+    2300006: Calf_Right
+    2300008: Chest
+    2300010: Elbow_Left
+    2300012: Elbow_Right
+    2300014: Foot_Left
+    2300016: Foot_Right
+    2300018: ForeArm_Left
+    2300020: ForeArm_Right
+    2300022: Hand_Left
+    2300024: Hand_Right
+    2300026: Head
+    2300028: Hip
+    2300030: HipJoint_Left
+    2300032: HipJoint_Right
+    2300034: Knee_Left
+    2300036: Knee_Right
+    2300038: Plane
+    2300040: Pupil_Left
+    2300042: Pupil_Right
+    2300044: Sclera_Left
+    2300046: Sclera_Right
+    2300048: Shoulder_Left
+    2300050: Shoulder_Right
+    2300052: Thigh_Left
+    2300054: Thigh_Right
+    2300056: UpperArm_Left
+    2300058: UpperArm_Right
+    2300060: Waist
+    2300062: Wrist_Left
+    2300064: Wrist_Right
+    3300000: Ankle_Left
+    3300002: Ankle_Right
+    3300004: Calf_Left
+    3300006: Calf_Right
+    3300008: Chest
+    3300010: Elbow_Left
+    3300012: Elbow_Right
+    3300014: Foot_Left
+    3300016: Foot_Right
+    3300018: ForeArm_Left
+    3300020: ForeArm_Right
+    3300022: Hand_Left
+    3300024: Hand_Right
+    3300026: Head
+    3300028: Hip
+    3300030: HipJoint_Left
+    3300032: HipJoint_Right
+    3300034: Knee_Left
+    3300036: Knee_Right
+    3300038: Plane
+    3300040: Pupil_Left
+    3300042: Pupil_Right
+    3300044: Sclera_Left
+    3300046: Sclera_Right
+    3300048: Shoulder_Left
+    3300050: Shoulder_Right
+    3300052: Thigh_Left
+    3300054: Thigh_Right
+    3300056: UpperArm_Left
+    3300058: UpperArm_Right
+    3300060: Waist
+    3300062: Wrist_Left
+    3300064: Wrist_Right
+    4300000: Foot_Right
+    4300002: Foot_Left
+    4300004: Ankle_Left
+    4300006: Ankle_Right
+    4300008: Hand_Left
+    4300010: Hand_Right
+    4300012: Wrist_Right
+    4300014: Wrist_Left
+    4300016: Pupil_Right
+    4300018: Pupil_Left
+    4300020: Sclera_Left
+    4300022: Sclera_Right
+    4300024: HipJoint_Right
+    4300026: HipJoint_Left
+    4300028: Plane
+    4300030: Shoulder_Right
+    4300032: Shoulder_Left
+    4300034: Knee_Right
+    4300036: Elbow_Right
+    4300038: Knee_Left
+    4300040: Elbow_Left
+    4300042: Waist
+    4300044: Calf_Right
+    4300046: ForeArm_Right
+    4300048: Thigh_Right
+    4300050: UpperArm_Right
+    4300052: Calf_Left
+    4300054: Thigh_Left
+    4300056: Hip
+    4300058: UpperArm_Left
+    4300060: ForeArm_Left
+    4300062: Chest
+    4300064: Head
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
