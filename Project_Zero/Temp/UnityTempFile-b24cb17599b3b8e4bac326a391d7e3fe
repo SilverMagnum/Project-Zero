@@ -87,7 +87,6 @@
 -define:ENABLE_NATIVE_ARRAY_CHECKS
 -define:UNITY_TEAM_LICENSE
 -define:ENABLE_VSTU
-Assets/Scripts/player_Aim.cs
 "Assets/Sketchfab Exporter/ExporterSKFB.cs"
 "Assets/Sketchfab Exporter/GlTF_Accessor.cs"
 "Assets/Sketchfab Exporter/GlTF_AmbientLight.cs"
