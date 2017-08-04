@@ -17,6 +17,8 @@ ModelImporter:
     3300002: Walls
     4300000: Background
     4300002: Walls
+    6400000: Background
+    6400002: Walls
     7400000: Default Take
     9500000: //RootNode
   materials:
