@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class playerAiming : MonoBehaviour {
 
-	public GameObject Parent;		//Set to the highest level player prefab.
+	public GameObject parent;		//Set to the highest level player prefab.
 	public float offset				= 32f;				//Corrects aim.
 	
 	private Vector3 mousePosition	= new Vector3();	//3D Coordinates of mouse position.
@@ -41,7 +41,7 @@ public class playerAiming : MonoBehaviour {
 		//Debug.Log("Angle = " + angle);
 		
 		//If the player is facing left...
-		if (mousePosition.x < Parent.transform.position.x) {
+		if (mousePosition.x < parent.transform.position.x) {
 			//Set our 3D Vector to contain the angle offset by (180-offset).
 			gunPosition.Set(0f, 0f, -offset - angle + 180f);
 			
