@@ -5,13 +5,14 @@ using UnityEngine;
 public class gunFire : MonoBehaviour {
 
 	public float timeBetweenBullets =	0.15f;
-	public float range				=	100f;
+	//public float range				=	100f;
 	public GameObject bullet;
 	public GameObject bulletOrigin;
 	public GameObject parent;		//Set to the highest level player prefab.
 	
 	
 	private float timer				=	0f;
+	private GameObject newBullet;
 	private Vector3 origin;
 	private Quaternion direction;
 	private Vector3 mousePosition	=	new Vector3();	//3D Coordinates of mouse position.
@@ -54,6 +55,7 @@ public class gunFire : MonoBehaviour {
 		//Debug.Log("Quaternion Rotation y = " + direction.eulerAngles.y);
 		Debug.Log("Quaternion Rotation z = " + direction.eulerAngles.z);
 		
-		Instantiate(bullet, origin, direction);
+		newBullet = Instantiate(bullet, origin, direction);
+		newBullet.SetActive(true);
 	}
 }

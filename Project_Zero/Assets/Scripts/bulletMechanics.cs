@@ -24,7 +24,7 @@ public class bulletMechanics : MonoBehaviour {
 	
 	void OnCollisionEnter2D(Collision2D other) {
 		//Debug.Log("I'm working!");
-		GameObject something = other.gameObject;
+		//GameObject something = other.gameObject;
 		//EnemyHealth enemyHealth = something.GetComponent <EnemyHealth> ();
 		//if(enemyHealth != null) {
 			//Debug.Log("BulletMechanics issued a TakeDamage command!");
