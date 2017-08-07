@@ -6,6 +6,10 @@ The game will be developed in the Unity engine and will stay with pure 2D graphi
 
 ## Credits:
 
-Chase
+SilverMagnum
 
+<<<<<<< HEAD
 "Cyrus Grey"
+=======
+TongueEnvy
+>>>>>>> master
