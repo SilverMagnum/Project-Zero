@@ -8,4 +8,4 @@ The game will be developed in the Unity engine and will stay with pure 2D graphi
 
 Chase
 
-D. (Add your name here to the extent you're comfortable.)
+"Cyrus Grey"
