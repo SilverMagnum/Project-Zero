@@ -8,4 +8,8 @@ The game will be developed in the Unity engine and will stay with pure 2D graphi
 
 SilverMagnum
 
+<<<<<<< HEAD
 Cyrus Grey
+=======
+"Cyrus Grey"
+>>>>>>> 079b0e0e02577990e671a35ff7e0153f956495b3
