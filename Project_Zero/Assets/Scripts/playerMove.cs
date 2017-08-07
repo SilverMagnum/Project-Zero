@@ -40,6 +40,7 @@ public class playerMove : MonoBehaviour {
         if (speedH.x == 0) {
             hipAnim.Play(standAnim.name);
         }
+		
         else {
             hipAnim.Play(walkAnim.name);
         }
