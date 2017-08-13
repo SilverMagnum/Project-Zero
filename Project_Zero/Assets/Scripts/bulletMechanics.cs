@@ -30,8 +30,8 @@ public class bulletMechanics : MonoBehaviour {
 	
 	//When this bullet collides with something...
 	public void OnCollisionEnter2D(Collision2D other) {
-        if (other.gameObject.tag != "Player") //Check if other collider is not attached to the player
-        {
+        //Check if other collider is not attached to the player
+		if (other.gameObject.tag != "Player") {
             //Destroys the bullet on impact.
             Destroy(gameObject);
         }
