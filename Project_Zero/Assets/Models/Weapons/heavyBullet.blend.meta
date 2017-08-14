@@ -1,35 +1,15 @@
 fileFormatVersion: 2
-guid: 7421f2f27a517594ab396ea0ba156593
+guid: bac4abd461258b546824e31f729fa58a
+timeCreated: 1502667772
+licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: Base
-    100002: Core_1
-    100004: Core_2
-    100006: //RootNode
-    100008: TopL
-    100010: TopR
-    400000: Base
-    400002: Core_1
-    400004: Core_2
-    400006: //RootNode
-    400008: TopL
-    400010: TopR
-    2300000: Base
-    2300002: Core_1
-    2300004: Core_2
-    2300006: TopL
-    2300008: TopR
-    3300000: Base
-    3300002: Core_1
-    3300004: Core_2
-    3300006: TopL
-    3300008: TopR
-    4300000: Core_2
-    4300002: Core_1
-    4300004: TopL
-    4300006: TopR
-    4300008: Base
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Plane
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -58,7 +38,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 0
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
